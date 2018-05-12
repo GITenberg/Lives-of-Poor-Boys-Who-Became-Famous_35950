@@ -1,0 +1,42 @@
+_repo: Lives-of-Poor-Boys-Who-Became-Famous_35950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bolton, Sarah Knowles
+    aliases:
+    - Bolton, Sarah K.
+    - Bolton, Mrs. C. E.
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '4216'
+    url: http://www.gutenberg.org/2009/agents/4216
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Knowles_Bolton
+description: ''
+gutenberg_issued: '2011-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35950'
+  lccn: 04016926
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+tableOfContents: George Peabody, merchant -- Bayard Taylor, traveller -- Captain James
+  B. Eads, civil engineer -- James Watt, inventor -- Sir Josiah Mason, manufacturer
+  -- Bernard Palissy, potter -- Bertel Thorwaldsen, sculptor -- Wolfgang Mozart, composer
+  -- Samuel Johnson, author -- Oliver Goldsmith, poet and writer -- Michael Faraday,
+  scientist -- Sir Henry Bessemer, maker of steel -- Sir Titus Salt, philanthropist
+  -- Joseph Marie Jacquard, silk weaver -- Horace Greeley, editor -- William Lloyd
+  Garrison, reformer -- Giuseppe Garibaldi, patriot -- Jean Paul Richter, novelist
+  -- Leon Gambetta, statesman -- David G. Farragut, sailor -- Ezra Cornell, mechanic
+  -- Lieut.-General [Philip] Sheridan, soldier -- Thomas Cole, painter -- Ole Bull,
+  violinist -- [Jean Louis Ernest] Meissonier, artist -- George W. Childs, journalist
+  -- Dwight L. Moody, evangelist -- Abraham Lincoln, president.
+title: Lives of Poor Boys Who Became Famous
+url: http://www.gutenberg.org/ebooks/35950
