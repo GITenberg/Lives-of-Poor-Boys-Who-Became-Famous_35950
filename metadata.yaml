@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'CT'
 - !lcsh 'Biography'
+- GITenberg
 tableOfContents: George Peabody, merchant -- Bayard Taylor, traveller -- Captain James
   B. Eads, civil engineer -- James Watt, inventor -- Sir Josiah Mason, manufacturer
   -- Bernard Palissy, potter -- Bertel Thorwaldsen, sculptor -- Wolfgang Mozart, composer
